@@ -13,7 +13,7 @@ function Home() {
     console.log({ name, imageUrl });
   };
 
-  return (
+  return (   
     <div>
       <div className="home-container">
         <button className="add-button" onClick={toggle}>
